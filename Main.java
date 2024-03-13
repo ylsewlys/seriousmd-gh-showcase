@@ -429,7 +429,7 @@ public class Main{
 
                             System.out.println("IS STRING REJECTED: " + isStringRejected);
                             if(!isStringRejected){
-                                System.out.println("ACCEPT STRING :O");
+                                System.out.println("ACCEPT STRING");
                             }
                             System.out.println(stackZero);
                             System.out.println(stackOne);                                           
